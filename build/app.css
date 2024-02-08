@@ -1,0 +1,9 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.container-xl {
+    display: grid;
+    grid-template-columns: 15rem auto;
+    height: 100vh;
+}
